@@ -64,5 +64,5 @@ I am Manas Miglani, currently learning full stack devlopment. I am a tech enthus
 </tr>
 </table>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manuTRON&theme=ocean_dark " />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manuTRON&theme=ocean_dark" />
 </p>
