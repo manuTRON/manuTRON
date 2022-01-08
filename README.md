@@ -6,6 +6,8 @@ I am Manas Miglani, currently learning full stack devlopment. I am a tech enthus
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manas-miglani/)](https://www.linkedin.com/in/manas-miglani/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@manasmiglani5)](https://medium.com/@manasmiglani5)
 
+[![Manas's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=manuTRON&theme=xcode)](https://github.com/manuTRON)
+
 ## 👨🏻‍💻 Coding Profiles
 
 ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)
