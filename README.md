@@ -12,7 +12,8 @@ I am Manas Miglani, currently learning full stack devlopment. I am a tech enthus
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/manasmiglani5)
 <!-- [![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-05CC47?style=flat-square&logo=GeeksForGeeks&logoColor=black)](https://auth.geeksforgeeks.org/user/manasmiglani5/profile)-->
 
-<img align='right' src="https://user-images.githubusercontent.com/64855541/133657615-ccb22336-f4db-408e-bc30-af7ff09608e7.png" width="280">
+<!-- <img align='right' src="https://user-images.githubusercontent.com/64855541/133657615-ccb22336-f4db-408e-bc30-af7ff09608e7.png" width="280"> -->
+<img align='right' src="https://github.com/manuTRON/manuTRON/blob/main/resources/coder.png" width="280">
 
 ## ⚡ Technologies
 
