@@ -58,11 +58,11 @@ I am Manas Miglani, currently learning full stack devlopment. I am a tech enthus
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=manuTRON&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=manuTRON&show_icons=true&locale=en&layout=compact&theme=jellybean" />
+<img src="https://github-readme-stats.vercel.app/api?username=manuTRON&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=aura"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=manuTRON&show_icons=true&locale=en&layout=compact&theme=aura" />
 </td>
 </tr>
 </table>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manuTRON&theme=tokyonight" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manuTRON&theme=aura" />
 </p>
