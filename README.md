@@ -1,5 +1,8 @@
-### Hi there 👋
+## Hi, I am Manas! Great to see you here!👋
 
+I am Manas Miglani, currently learning full stack devlopment. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manasmiglani5@gmail.com)](mailto:manasmiglani5@gmail.com)
 <!--
 **manuTRON/manuTRON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
