@@ -59,7 +59,7 @@ I am Manas Miglani, currently learning full stack devlopment. I am a tech enthus
 <tr>
 <td>
 <img src="https://github-readme-stats.vercel.app/api?username=manuTRON&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=manuTRON&show_icons=true&locale=en&layout=compact&theme=monokai" />
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=manuTRON&show_icons=true&locale=en&layout=compact&theme=jellybean" />
 </td>
 </tr>
 </table>
