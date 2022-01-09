@@ -58,10 +58,6 @@ I am Manas Miglani, currently learning full stack devlopment. I am a tech enthus
 
 ## 📈 Stats
 
-<tr>
 <img src="https://github-readme-stats.vercel.app/api?username=manuTRON&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs?username=manuTRON&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</tr>
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manuTRON&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=manuTRON&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manuTRON&theme=tokyonight" />
